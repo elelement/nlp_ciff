@@ -5,3 +5,4 @@ Programa de ejemplo para la asignatura de procesamiento del lenguaje natural. El
 
 ## Fuentes
 http://cmusphinx.sourceforge.net/wiki/tutorialsphinx4
+http://technobium.com/getting-started-with-apache-opennlp/
