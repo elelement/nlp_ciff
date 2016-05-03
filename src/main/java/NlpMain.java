@@ -17,7 +17,7 @@ public class NlpMain {
 					"resource:/edu/cmu/sphinx/models/en-us/en-us.lm.bin"
 			);
 
-			String paragraph = transcriptor.speechToText("./data/01-WhatIsTime_.wav");
+			String paragraph = transcriptor.speechToText("./data/output.wav");
 
 			// Y lo analizamos
 			InputStream is = new FileInputStream("data/en-sent.bin");

@@ -1,5 +1,7 @@
-*.wav
 *.mp3
+data/01um06l.wav
+data/a0161.wav
+data/en-sent.bin
 build/
 bin/
 gradle/
